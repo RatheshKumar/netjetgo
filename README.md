@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NetJetGo CRM
 
 > **beyond & more** — Internal Sales CRM Platform
@@ -111,3 +112,7 @@ Edit `src/config/db.js` to see all database key prefixes.
 - **Never put styles in inline objects across multiple files** — use `theme.js`
 - **All reusable UI** goes in `src/components/ui/`
 - **Commit messages**: `feat: add X`, `fix: Y`, `style: Z`
+=======
+# netjetgo
+CRM Tool
+>>>>>>> 894c6d1cfde058249510a93dfe8c76266c3c5598
